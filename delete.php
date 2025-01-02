@@ -3,7 +3,7 @@
     <table width="700" height="480" border="0">
         <tr>
             <td height="119" colspan="2" bgcolor = "#006600">
-                <h1><center><font color="#FFFFFF">ผู้ดูแลระบบ</font>
+                <h1><center><font color="#FFFFFF">ผู้ดูแลระบบเจ้าหน้าที่</font>
                 </center></h1><br>
             </td>
         </tr>
