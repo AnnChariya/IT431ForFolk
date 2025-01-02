@@ -11,19 +11,19 @@
     <?php
         session_start();
         if(isset($_SESSION['user']) && isset($_SESSION['password'])){
-            $link = mysqli_connect("localhost","root","1234");
+            $link = mysqli_connect("localhost","root","1234");แก้ไขไฟล์
             mysqli_set_charset($link,'utf8');
             mysqli_query($link,"Use room;");
             $sql = "Delete from room where room_id = $_GET[id];";
             $result = mysqli_query($link,$sql);
             if($result){
                 echo "ลบรายการข้อมูลห้องพักออกจากฐานข้อมูลแล้ว<p>";
-                mysqli_close($link);
+                mysqli_close($link);แก้ไขไฟล์
             }else{
                 echo "ไม่สามารถลบรายการห้องพักออกจากฐานข้อมูลได้<p>";
             }
         }else{
-            echo "Invalid to entry the Admmin page";
+            echo "Invalid to entry the Admmin page";แก้ไขไฟล์
         }
         include "load_room.php";
     ?>
