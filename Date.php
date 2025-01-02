@@ -26,6 +26,7 @@
         case 'Oct' : $month = "ตุลาคม" ; break;
         case 'Nov' : $month = "พฤศจิกายน" ; break;
         case 'Dec' : $month = "ธันวาคม" ; break;
+        nanny
     }
     $year = $year + 543;
     echo "<p><div align=right>
