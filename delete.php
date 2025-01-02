@@ -17,10 +17,10 @@
             $sql = "Delete from room where room_id = $_GET[id];";
             $result = mysqli_query($link,$sql);
             if($result){
-                echo "ลบรายการข้อมูลห้องพักออกจากฐานข้อมูลแล้ว<p>";
+                echo "ลบรายการข้อมูลห้องพักแล้ว<p>";
                 mysqli_close($link);
             }else{
-                echo "ไม่สามารถลบรายการห้องพักออกจากฐานข้อมูลได้<p>";
+                echo "ไม่สามารถลบรายการห้องพักได้<p>";
             }
         }else{
             echo "Invalid to entry the Admmin page";
