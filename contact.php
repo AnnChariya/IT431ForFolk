@@ -9,7 +9,7 @@
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
-            <td width="1007" bgcolor="#FFFFFF">
+            <td width="1007" bgcolor="#FFFFF">OK888
                 <img src="images/map.gif">
             </td>
             <td width="190" bgcolor="#FFFF66"><ul>
