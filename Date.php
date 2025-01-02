@@ -28,6 +28,6 @@
         case 'Dec' : $month = "ธันวาคม" ; break;
     }
     $year = $year + 543;
-    echo "<p><div align=right>
+    echo "<p><div align=right>nnnfdgfdggg
         วัน $day ที่ $date เดือน $month พ.ศ. $year  </div>";
 ?>
