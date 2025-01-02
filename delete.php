@@ -27,7 +27,7 @@
         }
         include "load_room.php";
     ?>
-        <td width="190" bgcolor="#FFFF66">
+        <td width="190" bgcolor="#FFFFFFFFFFFFFFFF66">
                 <ul>
                     <li><a href="insert_admin.php">เพิ่มข้อมูลรายการห้อง</a></li>
                     <li><a href="load_room_admin.php">แก้ไข-ลบข้อมูลรายการห้อง</a></li>
