@@ -29,8 +29,8 @@
     ?>
         <td width="190" bgcolor="#FFFF66">
                 <ul>
-                    <li><a href="insert_admin.php">เพิ่มข้อมูลรายการห้อง</a></li>
-                    <li><a href="load_room_admin.php">แก้ไข-ลบข้อมูลรายการห้อง</a></li>
+                    <li><a href="insert_admin.php">เพิ่มข้อมูลรายการห้องไฟฟ้าพลังงาน</a></li>
+                    <li><a href="load_room_admin.php">แก้ไข-ลบข้อมูลรายการห้องไฟฟ้าพลังงาน</a></li>
                     <li><a href="logout_admin.php">ออกจากระบบ</a></li>
                 </ul>
             </td>
