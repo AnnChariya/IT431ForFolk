@@ -9,10 +9,10 @@
         $pgcount = $dbarr["countnum"];
     }
     $pgcount = $pgcount + 1;
-    $pgcount = "00000" . $pgcount;
+    $pgcount = "00000025" . $pgcount;
     $pgcount = substr($pgcount, -6);
     echo "$pgcount";
-
+ 
     $sql = "Update counter set countnum = '$pgcount' where id = 1";
     $result = mysqli_query($link,$sql);
 ?>
