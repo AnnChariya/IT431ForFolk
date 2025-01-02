@@ -21,6 +21,9 @@
                 mysqli_close($link);
             }else{
                 echo "ไม่สามารถลบรายการห้องพักออกจากฐานข้อมูลได้<p>";
+
+                // Add new "echo"
+                echo "โปรดลองใหม่อีกครั้ง";
             }
         }else{
             echo "Invalid to entry the Admmin page";
