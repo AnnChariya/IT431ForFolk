@@ -25,7 +25,8 @@
         }else{
             echo "Invalid to entry the Admmin page";
         }
-        include "load_room.php";
+        include "load_room.php"; 
+        รายการต่อไปนี้
     ?>
         <td width="190" bgcolor="#FFFF66">
                 <ul>
