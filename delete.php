@@ -31,7 +31,10 @@
                 <ul>
                     <li><a href="insert_admin.php">เพิ่มข้อมูลรายการห้อง</a></li>
                     <li><a href="load_room_admin.php">แก้ไข-ลบข้อมูลรายการห้อง</a></li>
-                    <li><a href="logout_admin.php">ออกจากระบบสำเร็จแล้วน้องๆๆๆๆ</a></li>
+main
+                    <li><a href="logout_admin.php">ออกจากระบบ</a></li>
+                    <li><a href="logout_admin.php">สิ้นสุด</a></li>
+
                 </ul>
             </td>
     </table>
